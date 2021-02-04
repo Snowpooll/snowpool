@@ -3,4 +3,4 @@ osaka
 kyoto
 hakata
 nagoya
-fukuoka
+shizuoka
